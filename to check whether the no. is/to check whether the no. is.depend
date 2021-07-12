@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1619099617 source:e:\c programs neso academy\to check whether the no. is\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1619090227 source:e:\c programs neso academy\to check whether the no. is\palindrome.c
+
+1619098021 source:e:\c programs neso academy\to check whether the no. is\armstrong.c
+
+1619090878 source:e:\c programs neso academy\to check whether the no. is\strong.c
+
+1619099869 source:e:\c programs neso academy\to check whether the no. is\prime.c
+
+1619256204 source:e:\c programs neso academy\to check whether the no. is\binary to decimal.c
+	<math.h>
+
+1619256382 source:e:\c programs neso academy\to check whether the no. is\perfect.c
+
